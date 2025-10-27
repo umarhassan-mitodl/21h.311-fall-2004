@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Humanities"
+    ]
+  ],
+  "legacy_uid": "4138b37d-6acf-5e8f-0722-67893424938e",
+  "instructors": {
+    "content": [
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "53068df7-4326-9ee2-437b-888a521aa529",
+    "website": "21h-311-the-renaissance-1300-1600-fall-2004"
+  },
+  "course_title": "The Renaissance, 1300-1600",
+  "course_description": "The \"Renaissance\" as a phenomenon in European history is best understood as a series of social, political, and cultural responses to an intellectual trend which began in Italy in the fourteenth century. This intellectual tendency, known as humanism, or the _studia humanitatis_, was at the heart of developments in literature, the arts, the sciences, religion, and government for almost three hundred years. In this class, we will highlight the history of humanism, but we will also study religious reformations, high politics, the agrarian world, and European conquest and expansion abroad in the period.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.311",
+  "course_image_thumbnail": {
+    "content": "0c5c8e62-7224-b12a-5f01-e1ab79d75c42",
+    "website": "21h-311-the-renaissance-1300-1600-fall-2004"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "4461579a-bbe4-4110-9d37-62adb5bd9aec",
+  "site_short_id": "21h.311-fall-2004",
+  "site_url_path": "courses/21h-311-the-renaissance-1300-1600-fall-2004",
+  "title": "Course Metadata"
+}
